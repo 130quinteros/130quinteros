@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @130quinteros PhD student of civil and environmental engineering from the Imperial college london
-- 👀 I’m interested in modelling CNTs in all aspect, mostly from a mechanical approach, however I'am trying to simmulate the piezoresistive behaviour.
-- 💞️ I’m looking to collaborate on composite materials modelling and new way to simmulated crack on it.
+- 👀 I’m interested in modelling smart materials.
+- 💞️ I’m looking to collaborate on the study of materials.
 - 📫 How to reach me? from here or from my other mail l.quinteros-palominos20@imperial.ac.uk
 
 <!---
