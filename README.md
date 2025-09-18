@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @130quinteros PhD student of civil and environmental engineering from the Imperial college london
-- 👀 I’m interested in modelling smart materials.
-- 💞️ I’m looking to collaborate on the study of materials.
+- 👋 Hi, I’m @130quinteros researcher
+- 👀 I’m interested in modellin materials and structures.
 - 📫 How to reach me? from here or from my other mail l.quinteros-palominos20@imperial.ac.uk
 
 <!---
